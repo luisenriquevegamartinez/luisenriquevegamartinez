@@ -1,0 +1,41 @@
+# Luis Vega
+
+Frontend engineer, 8 years building for insurance and banking in Spain, Costa Rica
+and the United States. I work in Angular and TypeScript at a scale where
+architecture decisions matter — Nx monorepos, Module Federation, and the build
+tooling that keeps them fast.
+
+Most of what I build lives in corporate repositories, so this profile is quiet.
+Here is what I have been working on.
+
+## Recent work
+
+**Angular 17 → 21 migration in a large-scale Nx monorepo.**
+Led the upgrade across a Module Federation setup, migrating Angular Material,
+Radix-NG, ag-Grid and ApexCharts.
+
+**CI test stage: ~45 min → ~2 min.**
+About 95% faster, through Nx task parallelization in GitHub Actions.
+
+**Jest → Vitest.**
+Migrated the full test suite, adding another 20–30% on top of that.
+
+**Microfrontend scaffolding: ~2 hours → ~1 minute.**
+Built a Node CLI that generated a complete microfrontend from a single name.
+It wrapped the Angular CLI, filled in file templates, and derived every naming
+convention it needed — kebab-case, PascalCase and the rest — from that one input.
+
+## Open source
+
+I reported the Angular 21/22 peer-dependency block in
+[@radix-ng/primitives](https://github.com/radix-ng/primitives/issues/401) — an
+`ERESOLVE` failure that made the library uninstallable on Angular 21. The
+maintainer shipped Angular 21 support five days later.
+
+Filed from my work account, [@luis-vega-sm](https://github.com/luis-vega-sm).
+
+## Currently
+
+Open to remote frontend roles, Angular or React.
+
+[LinkedIn](https://www.linkedin.com/in/luisenriquevegamartinez)
