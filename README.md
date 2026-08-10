@@ -10,6 +10,8 @@ Here is what I have been working on.
 
 ## Recent work
 
+*Source Meridian, 2025–2026.*
+
 **Angular 17 → 21 migration in a large-scale Nx monorepo.**
 Led the upgrade across a Module Federation setup, migrating Angular Material,
 Radix-NG, ag-Grid and ApexCharts.
@@ -20,10 +22,13 @@ About 95% faster, through Nx task parallelization in GitHub Actions.
 **Jest → Vitest.**
 Migrated the full test suite, adding another 20–30% on top of that.
 
+## Earlier
+
 **Microfrontend scaffolding: ~2 hours → ~1 minute.**
-Built a Node CLI that generated a complete microfrontend from a single name.
-It wrapped the Angular CLI, filled in file templates, and derived every naming
-convention it needed — kebab-case, PascalCase and the rest — from that one input.
+*Sophos Solutions, 2021.* Built a Node CLI that generated a complete microfrontend
+from a single name. It wrapped the Angular CLI, filled in file templates, and
+derived every naming convention it needed — kebab-case, PascalCase and the rest —
+from that one input.
 
 ## Open source
 
@@ -38,4 +43,6 @@ Filed from my work account, [@luis-vega-sm](https://github.com/luis-vega-sm).
 
 Open to remote frontend roles, Angular or React.
 
+[Portfolio](https://luisenriquevegamartinez.github.io/portfolio/) ·
+[Resume (PDF)](https://luisenriquevegamartinez.github.io/portfolio/resume.pdf) ·
 [LinkedIn](https://www.linkedin.com/in/luisenriquevegamartinez)
