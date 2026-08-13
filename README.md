@@ -1,9 +1,9 @@
 # Luis Vega
 
-Frontend engineer, 8 years building for insurance and banking in Spain, Costa Rica
-and the United States. I work in Angular and TypeScript at a scale where
-architecture decisions matter — Nx monorepos, Module Federation, and the build
-tooling that keeps them fast.
+Frontend Developer, 8 years building for insurance and banking in Spain, Costa Rica
+and the United States — Línea Directa, ING, DKV and Banco Popular. I work in Angular
+and TypeScript at a scale where architecture decisions matter — Nx monorepos, Module
+Federation, and the build tooling that keeps them fast.
 
 Most of what I build lives in corporate repositories, so this profile is quiet.
 Here is what I have been working on.
@@ -23,6 +23,13 @@ About 95% faster, through Nx task parallelization in GitHub Actions.
 Migrated the full test suite, adding another 20–30% on top of that.
 
 ## Earlier
+
+**10 endpoints, JavaScript → TypeScript.**
+*Sophos Solutions, 2022.* Migrated the backend endpoints of Plink, Bancolombia's
+merchant platform, onto clean-architecture microservices — Node.js, Express and
+Sequelize over PostgreSQL on AWS. Refactored against SOLID, with the unit tests
+written alongside the migration rather than after it: 100% of the endpoints, 100%
+coverage.
 
 **Microfrontend scaffolding: ~2 hours → ~1 minute.**
 *Sophos Solutions, 2021.* Built a Node CLI that generated a complete microfrontend
