@@ -1,9 +1,11 @@
 # Luis Vega
 
-Frontend Developer, 8 years building for insurance and banking in Spain, Costa Rica
-and the United States — Línea Directa, ING, DKV and Banco Popular. I work in Angular
-and TypeScript at a scale where architecture decisions matter — Nx monorepos, Module
-Federation, and the build tooling that keeps them fast.
+Full Stack Developer, 8 years building for insurance and banking in Spain, Costa Rica
+and the United States — Línea Directa, ING, DKV, Banco Popular and Bancolombia. On the
+frontend I work in Angular, React and TypeScript at a scale where architecture decisions
+matter — Nx monorepos, Module Federation, and the build tooling that keeps them fast. On
+the backend, Node.js and TypeScript over PostgreSQL on AWS, and .NET/C# on queue-based
+architectures.
 
 Most of what I build lives in corporate repositories, so this profile is quiet.
 Here is what I have been working on.
@@ -48,7 +50,7 @@ Filed from my work account, [@luis-vega-sm](https://github.com/luis-vega-sm).
 
 ## Currently
 
-Open to remote frontend roles, Angular or React.
+Open to remote full-time roles, full stack or frontend.
 
 [Portfolio](https://luisenriquevegamartinez.github.io/portfolio/) ·
 [Resume (PDF)](https://luisenriquevegamartinez.github.io/portfolio/resume.pdf) ·
