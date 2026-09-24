@@ -1,7 +1,7 @@
 # Luis Vega
 
-Full Stack Developer, 8 years building for insurance and banking in Spain, Costa Rica
-and the United States — Línea Directa, ING, DKV, Banco Popular and Bancolombia. On the
+Full Stack Developer, 8 years of experience — three of them building for insurance and
+banking: Línea Directa, ING and DKV in Spain, Banco Popular in Costa Rica, Bancolombia. On the
 frontend I work in Angular, React and TypeScript at a scale where architecture decisions
 matter — Nx monorepos, Module Federation, and the build tooling that keeps them fast. On
 the backend, Node.js and TypeScript over PostgreSQL on AWS, and .NET/C# on queue-based
